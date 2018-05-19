@@ -7,7 +7,8 @@ Specifications:
 Schema:
   * Account has many projects and users
   * Project and user can have many tasks
-Scope:
+ 
+ Scope:
   * Account admin user can add licenses to the account
   * Admin user can add or remove projects and users of the account
   * All users can create tasks
